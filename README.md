@@ -1,7 +1,7 @@
 # Hi, saya Hidayat 👋
 
-Mahasiswa dan pengembang web & mobile. Fokus membangun produk digital yang tepat guna —
-dari sistem katalog B2B hingga portal data desa.
+Mahasiswa dan pengembang web & mobile. Fokus membangun produk digital yang rapi, mudah digunakan,
+dan sesuai kebutuhan di lapangan.
 
 ## 🛠 Tech Stack
 
