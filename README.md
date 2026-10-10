@@ -1,7 +1,6 @@
 # Hi, saya Hidayat 👋
 
-Mahasiswa dan pengembang web & mobile. Fokus membangun produk digital yang rapi, mudah digunakan,
-dan sesuai kebutuhan di lapangan.
+Mahasiswa dan pengembang web & mobile · Next.js · TypeScript · Laravel · Flutter
 
 ## 🛠 Tech Stack
 
